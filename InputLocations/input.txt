@@ -1,0 +1,4 @@
+10.2.1.1,California
+10.2.6.255,Kansas
+10.2.2.34,NewYork
+10.2.41.123,Missouri
